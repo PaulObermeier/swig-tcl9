@@ -263,6 +263,7 @@ CPP_TEST_CASES += \
 	features \
 	fragments \
 	friends \
+	friends_operator_overloading \
 	friends_template \
 	funcptr_cpp \
 	functors \
@@ -648,6 +649,7 @@ CPP11_TEST_CASES += \
 	cpp11_template_double_brackets \
 	cpp11_template_explicit \
 	cpp11_template_parameters_decltype \
+	cpp11_template_templated_methods \
 	cpp11_template_typedefs \
 	cpp11_type_traits \
 	cpp11_type_aliasing \
